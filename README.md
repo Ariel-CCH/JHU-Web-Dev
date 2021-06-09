@@ -1,2 +1,2 @@
-# Coursera- Web Development
-coursera test repository
+# JHU: Web Development
+test repository
